@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: fastapi-app
-          image: srinivasanram/fastapi-app:1776365179
+          image: srinivasanram/fastapi-app:1776366517
           ports:
             - containerPort: 8000
           readinessProbe:
